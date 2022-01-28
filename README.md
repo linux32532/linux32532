@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linux32532
 - 👀 I’m interested in linux,python,java
-- 🌱 I’m currently learning python,java
+- 🌱 I’m currently learning, C++
 
 
 <!---
