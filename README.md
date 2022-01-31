@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @linux32532
-- 👀 I’m interested in linux,python,java
+- 👋 Hi, I’m BAROLOWL!
+- 👀 I’m interested in bash,python,java
 - 🌱 I’m currently learning, C++
 
 
